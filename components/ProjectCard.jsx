@@ -69,7 +69,7 @@ const ProjectCard = ({ project }) => {
             </span>
           ))}
         </div>
-        <div className={styles.cta}>
+        {/* <div className={styles.cta}>
           {project.source_code && (
             <a
               href={project.source_code}
@@ -88,7 +88,7 @@ const ProjectCard = ({ project }) => {
           >
             Live Demo
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
