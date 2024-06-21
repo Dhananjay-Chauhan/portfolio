@@ -6,20 +6,20 @@ const CustomHead = ({ title }) => {
       <title>{title}</title>
       <meta
         name="description"
-        content="Dhananjay Chauhan is an avid full stack web developer building websites and applications you'd love to use"
+        content="Hello! I'm Dhananjay</b> , a final-year Computer Science Engineering
+        student with a passion for web development and problem-solving,I actively participate in coding competitions on
+        platforms like Codeforces, LeetCode, and CodeChef, where I enjoy
+        tackling complex problems and refining my analytical skills."
       />
       <meta
         name="keywords"
-        content="Dhananjay Chauhan, nitin, ranganath, web developer portfolio, nitin web developer, nitin developer, mern stack, Dhananjay Chauhan portfolio, vscode-portfolio"
+        content="Dhananjay Chauhan, web developer portfolio, Dhananjay web developer, nitin developer, mern stack, Dhananjay Chauhan portfolio"
       />
       <meta property="og:title" content="Dhananjay Chauhan's Portfolio" />
       <meta
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
       />
-      <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
-      <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
 };
@@ -29,3 +29,4 @@ export default CustomHead;
 CustomHead.defaultProps = {
   title: 'Dhananjay Chauhan',
 };
+
