@@ -5,7 +5,7 @@ const Titlebar = () => {
   return (
     <section className={styles.titlebar}>
       <Image
-        src="/vscode_icon.svg"
+        src="/portfolio/vscode_icon.svg"
         alt="VSCode Icon"
         height={15}
         width={15}
