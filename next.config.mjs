@@ -1,12 +1,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images: {
-        domains: [
-          'res.cloudinary.com',
-          'avatars.githubusercontent.com',
-          'imgur.com',
-        ],
-      },
+  basePath: "/portfolio",
+  output: "export",
+  images: {
+    domains: [
+      "res.cloudinary.com",
+      "avatars.githubusercontent.com",
+      "imgur.com",
+    ],
+    unoptimized: true,
+  },
+  
 };
 
 export default nextConfig;

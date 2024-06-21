@@ -8,7 +8,7 @@ const ProjectsPage = ({ projects }) => {
     <div className={styles.mcont} >
 
     
-      <h3>Stuff I've Built So Far</h3>
+      <h3>Stuff I&apos;ve Built So Far</h3>
       <div className={styles.container}>
         {projects.map((project) => (
           <ProjectCard key={project.id} project={project} />
