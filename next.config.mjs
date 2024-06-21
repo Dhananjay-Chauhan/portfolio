@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   basePath: "/portfolio",
+  assetPrefix: '/repository-name/',
   output: "export",
   images: {
     domains: [
