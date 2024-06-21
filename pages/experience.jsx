@@ -52,17 +52,17 @@ const Experience = ({ experience }) => {
     },
     {
       key: "Stats",
-      val: "Leetcode Rating - 1700 (Maximum)",
+      val: "Leetcode Rating - 30000 (Maximum)",
       href: "",
     },
     {
       key: "Stats",
-      val: "Codechef Rating : 1447 (Maximum)",
+      val: "Codechef Rating : 101010 (Maximum)",
       href: "",
     },
     {
       key: "Stats",
-      val: "Codeforces Rating : 920 (Maximum)",
+      val: "Codeforces Rating : 3000 legend(Maximum)",
       href: "",
     },
   ];

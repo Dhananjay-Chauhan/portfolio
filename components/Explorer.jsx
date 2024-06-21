@@ -66,7 +66,7 @@ const Explorer = () => {
             <Link href={item.path} key={item.name} style={{ textDecoration: 'none' }}>
               <div className={styles.file} >
                 <Image
-                  src={`/${item.icon}`}
+                  src={`/portfolio/${item.icon}`}
                   alt={item.name}
                   height={18}
                   width={18}
