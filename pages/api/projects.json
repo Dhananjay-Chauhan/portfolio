@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Swiftmail",
+    "description": "A backend for email web server(HTTP).",
+    "features": [
+      "- Users can send and recieve emails",
+      "- Has features for deleting,read,archive,starred mails.",
+      "- Has an ML model Integrated for checking spam Mails",
+      "- Provides users(sender) to put self-declared tags and labels with the mail",
+      "- Provides users to make a group of emails and see all the mails in the group"
+    ],
+    "tags": ["Flask", "REST-API", "MongoDB"],
+    "source_code": "https://github.com/",
+    "demo": "https://www.google.com"
+  },
+  {
+    "id": 2,
+    "name": "StreamScape",
+    "description": "A social media web application.",
+    "features": [
+      "- A  social media website using MERN Stack and application state management using React-Redux",
+      "- Application allows users to post their Images along with description, like and make friends."
+    ],
+    "tags": ["JavaScript", "React", "ExpressJs", "Node", "MongoDB"],
+    "source_code": "https://github.com/",
+    "demo": "https://www.google.com"
+  },
+  {
+    "id": 3,
+    "name": "Scribify",
+    "description": "A blogging web Application.",
+    "features": [
+      "- A web application using Flask and MySQL for users to Post blogs.",
+      "- Users can post their blogs as well as read blogs posted by other people",
+      "- Utilized the Flask Admin Dashboard to create a UI for the admin side of application to allow admins to monitor blogs."
+    ],
+    "tags": ["HTML", "Tailwind-CSS", "Flask", "SQLite"],
+    "source_code": "https://github.com/",
+    "demo": "https://www.google.com"
+  },
+  {
+    "id": 4,
+    "name": "Club Website",
+    "description": "A Landing page for the Linux Club VIT Chennai.",
+    "features": [
+      "- Website giving information about club, events, support etc.",
+      "- A leaderboard for ranking club members based on their contributions.",
+      "- Has a server for storing and updating club member information."
+    ],
+    "tags": ["React", "Tailwind-CSS", "Postgres","Flask","SQLite"],
+    "source_code": "https://github.com/",
+    "demo": "https://www.google.com"
+  }
+  
+  
+]
