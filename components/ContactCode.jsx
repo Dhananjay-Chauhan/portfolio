@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'dhananjay.',
-    href: 'https://dhananjay.me',
+    link: 'dhananjay.xyz',
+    href: 'https://dhananjay.xyz',
   },
   {
     social: 'email',

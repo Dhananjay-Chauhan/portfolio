@@ -2,6 +2,7 @@
 const nextConfig = {
   basePath: "https://dhananjay.xyz/",
   assetPrefix: 'https://dhananjay.xyz/',
+  // assetPrefix: '/portfolio/',
   output: "export",
   images: {
     domains: [

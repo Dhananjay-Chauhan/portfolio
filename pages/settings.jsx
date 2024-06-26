@@ -6,13 +6,13 @@ const SettingsPage = () => {
     <>
       <h2>Manage Themes</h2>
       <div className={styles.container}>
-        <ThemeInfo
+        {/* <ThemeInfo
           name="GitHub Dark"
           icon="/portfolio/github-dark.png"
           publisher="GitHub"
           theme="github-dark"
           description="GitHub theme for VS Code"
-        />
+        /> */}
         <ThemeInfo
           name="Dracula"
           icon="/portfolio/dracula.png"
